@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1442e5ba29736947abb2bd1f7152944, type: 3}
+  m_Name: "Fa\xEDsca el\xE9trica_Quiz"
+  m_EditorClassIdentifier: 
+  _quizName: "Fa\xEDsca el\xE9trica"
+  _quizQuest: "Foram identificados danos em sua planta\xE7\xE3o, como ramos e folhas
+    queimadas, devido a ocorr\xEAncia de raios. O que voc\xEA deseja fazer? "
+  _wrongAswer: "Realizar poda para evitar danos maiores \xE0s plantas "
+  _rigthAswer: "Aguardar a confirma\xE7\xE3o da extens\xE3o dos danos para verificar
+    a necessidade de poda "
+  _rigthAswerResult: "Correto! Voc\xEA conseguiu evitar \"Fa\xEDsca el\xE9trica\"!"
+  _wrongAswerResult: "Ap\xF3s a tempestade foi detectado danos causados por ocorr\xEAncia
+    de fa\xEDsca el\xE9trica em seu cafezal, com o aparecimento repentino de ramos
+    e folhas queimados. Aguarde a confirma\xE7\xE3o da extens\xE3o dos danos, seca
+    total da planta ou apenas de sua parte superior, para proceder \xE0 poda, caso
+    seja necess\xE1rio. Seu indicador \"Irriga\xE7\xE3o\" foi reduzido 25% do total."

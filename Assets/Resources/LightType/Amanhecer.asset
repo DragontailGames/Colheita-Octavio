@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 907b100b1e1a2c248a525284b2dbb8ac, type: 3}
+  m_Name: Amanhecer
+  m_EditorClassIdentifier: 
+  ligthName: Amanhecer
+  ligthColor: {r: 0.65473145, g: 0.6603774, b: 0.5700427, a: 1}
+  intensity: 0.46
+  begin: 6
+  end: 8
+  turnOnLights: 1

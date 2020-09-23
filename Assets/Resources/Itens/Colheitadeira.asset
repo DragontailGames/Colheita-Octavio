@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3a3bc37f48e00246bb62a582fd69d6b, type: 3}
+  m_Name: Colheitadeira
+  m_EditorClassIdentifier: 
+  nameItem: Colheitadeira
+  itemIcon: {fileID: 21300018, guid: a2caa62c22211e144aad21b20d39c765, type: 3}
+  price: 1500
+  description: "Diminui o tempo de dura\xE7\xE3o da etapa \"Colheita\" em 30%"
+  Id: 12
+  buyed: 0
+  valueToChange: 30
+  effectItem: 1
+  stageCondition:
+  - {fileID: 11400000, guid: 560ac56dfd626f84d8d999904692996e, type: 2}
+  eventCondition: []
+  itemSO: []
+  stages: 1
+  auxEffect: 0
+  minigameToChange: 0

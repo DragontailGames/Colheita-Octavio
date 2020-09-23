@@ -1,0 +1,40 @@
+<STAGE>Texto do stagio como iniciar o stagio e bla bla bla
+<STAGE_1>Esse é o painel de stagio na esquerda podemos ver a lista com todos os estagios
+<STAGE_2>Quando esse botão pode estiver acesso siginifica que você concluiu uma etapa e assim pode seguir para  proxima
+<STAGE_3>Nesse espaço você podera ver os detalhes do estagio que você esta agora, como as curiosidades
+<STAGECLOSE>Vamos fechar a lista o menu de estagios no X para continuarmos o nosso tour pela fazenda
+<RESOURCES_1>Vamos conhecer melhor a nossa interface esse botoes são os Indicadores de Recursos e servem para mostrar as condiçoes da Fazenda
+<RESOURCES_2>Tente clicar neles para ver a porcentagem de cada recurso disponiveis, o ideal é manter esses indicadores no maximo para assim ganhar mais tempo
+<MINIGAME_1>Essa é a sua barra de cafeina você usa a usa energia para iniciar um minigame
+<MINIGAME_2>Você pode iniciar um Minigame relacionado ao Indicador de Irrigação na Caixa D'água
+<MINIGAME_3>Você pode iniciar um Minigame relacionado ao Indicador de Nutrientes no Silo
+<MINIGAME_4>Você pode iniciar um Minigame relacionado ao Indicador de Limpeza no Trator, vamos tentar iniciar esse...
+<MINIGAME_5>Essa é a tela de inicio do minigame onde você pode conferir o indicador relacionado, e o custo para iniciar o minigame, use o Start para começar.
+<MINIGAME_6>Esse é o inicio do Minigame, onde teremos uma explicação sobre como jogar esse minigame
+<MINIGAME_7>Use esse Botão para iniciar a contagem o minigame quando estiver pronto
+<MINIGAME_8>Essa é a contagem regressiva para iniciar o minigame para que você possa se preparar
+<MINIGAME_9>Esse é o contador para o minigame acabar ou seja o tempo limite
+<MINIGAME_10>Essa é a ferramenta para você iniciar o minigame, clique em qualquer lugar para iniciar...
+<MINIGAME_11>Esse é o final do Minigame de Limpezaaqui você pode ver a quantidade de porcentagem que você recuper, agora vamos voltar ao jogo
+<EVENT_1>Um evento aconteceu enquanto você estava no minigame, para passar pelo evento, você tem que responder a uma pergunta
+<EVENT_2>Infelizmente a resposta estava errada, por isso alguma coisa negativa acontecera com a sua fazenda
+<EVENT_3>Aqui nos temos o efeito negativo e a duração dele quando houver
+<RADIALMENU_1>Vamos ver mais algumas coisas, esse é o botão para acessar o menu, ele existe em dois modelos diferentes, o simples...
+<RADIALMENU_2>E o modo com um evento, se esse circulo laranja estiver em volta do botão significa que temos um evento ativo, vamos clicar nele...
+<RADIALMENU_3>Esse é o menu aberto onde podemos ver as suas opçoes e são elas:
+<RADIALMENU_4>O botão para sair do jogo, e fazer o logoff;
+<RADIALMENU_5>Esse botão podemos acessar as configurações, e ajustar a qualidades, os volumes, etc...
+<RADIALMENU_6>Esse é o botão do Evento, quando ele esta aceso significa que temos um evento ativo, se ele estiver apagado...
+<RADIALMENU_7>Chegamos no botão no ciclo, onde você pode ver um resumo do ciclo atual, e pode ver quantos pontos ja acumulou.
+<CICLE_1>Uma breve explicação, a fazenda de café é dividida em 3 grupos de envolvendo o plantio, cada uma com as suas etapas, a sua duração, os seus eventos, e os seus Minigames
+<CICLE_2>A primeira delas é preparação do solo, onde iniciamos o ciclo, e onde tambem, estamos preparando o solo, para o plantio...
+<CICLE_3>O plantio, que inicia apos a preparação do solo, e acompanha até a preparação da colheita do café
+<CICLE_4>Colheita, e tratamento do café, nesse grupo de etapa, o café é colhido e preparado para a venda
+<CICLE_5>O ultimo grupo, é o mais curto, que conta apenas com a etapa de venda do café. Antes de finalizarmos vamos ver o que podemos fazer com o dinheiro
+<DINHEIRO>O dinheiro para a sua fazenda, tem 3 usos, 1º Para comprar uma nova fazenda, que será permanente para você, 2º Comprar uma semente, que será aplicada a sua fazenda na nova etapa
+<HOUSE>3ª O dinheiro tambem pode ser usado na loja, para comprar equipamentos, para auxiliar no seu avanço, para isso vamos abrir a loja, que fica na sua casa...
+<STORE_1>Essa é a sua loja, aqui temos a quantidade de dinheiro atual
+<STORE_2>Esse é o nome do item e a sua imagem
+<STORE_3>Esse é o valor que o item custa
+<STORE_4>Essa é a descrição do item que esta selecionado
+<STORE_5>Esse é um exemplo de um item Comprado

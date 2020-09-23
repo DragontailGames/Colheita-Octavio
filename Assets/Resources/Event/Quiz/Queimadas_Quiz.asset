@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1442e5ba29736947abb2bd1f7152944, type: 3}
+  m_Name: Queimadas_Quiz
+  m_EditorClassIdentifier: 
+  _quizName: Queimadas
+  _quizQuest: "Voc\xEA recebeu informa\xE7\xF5es que alguns de seus vizinhos realizam
+    a limpeza do solo atrav\xE9s do m\xE9todo da queimada controlada. Deseja treinar
+    parte da sua equipe como brigadistas para evitar futuros incidentes? "
+  _wrongAswer: "N\xE3o"
+  _rigthAswer: Sim
+  _rigthAswerResult: "Correto! Voc\xEA conseguiu evitar \"Queimadas\"!"
+  _wrongAswerResult: "Vizinhos utilizaram o m\xE9todo de queimada para limpar o solo,
+    por\xE9m perderam o controle das chamas e elas j\xE1 est\xE3o afetando o seu cafezal.
+    \xC9 importante apaga-las rapidamente para reduzir os danos. Durante 1 hora voc\xEA
+    perder\xE1 o indicador \"Irriga\xE7\xE3o\" 20% mais r\xE1pido."

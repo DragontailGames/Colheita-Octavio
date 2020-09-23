@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3a3bc37f48e00246bb62a582fd69d6b, type: 3}
+  m_Name: "Triturador Ele\u0301trico"
+  m_EditorClassIdentifier: 
+  nameItem: "Triturador El\xE9trico"
+  itemIcon: {fileID: 0}
+  price: 2500
+  description: Diminui todos os minigames em 30% durante a etapa "Moagem Final"
+  Id: 14
+  buyed: 0
+  valueToChange: 30
+  effectItem: 0
+  stageCondition:
+  - {fileID: 11400000, guid: 98c4eaf0164e494428f556236b1790f9, type: 2}
+  eventCondition: []
+  itemSO: []
+  stages: 1
+  auxEffect: 0
+  minigameToChange: 4

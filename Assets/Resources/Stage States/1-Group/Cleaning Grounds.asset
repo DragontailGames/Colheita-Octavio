@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a0f0629a969e5f4880d3b43e8db472c, type: 3}
+  m_Name: Cleaning Grounds
+  m_EditorClassIdentifier: 
+  stageName: Limpando o Terreno
+  stageDuration: 2
+  stageOrder: 0
+  stageDescription: "Nessa etapa o solo esta sendo limpo, tirando restos da planta\xE7\xE3o
+    passada para podermos iniciar o plantio do caf\xE9, normalmente essa etapa dura
+    14 horas."
+  iEnd: 1
+  myFillAmount: 1

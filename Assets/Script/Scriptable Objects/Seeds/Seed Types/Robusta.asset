@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1228e9f0e04654b479c7129629f724b9, type: 3}
+  m_Name: Robusta
+  m_EditorClassIdentifier: 
+  seedName: Robusta
+  seedCost: 0
+  description: "- Mais cafe\xEDna.\n- Facil de plantar.\n- Produtividade menor.\n-
+    Sensibilidade a doen\xE7as baixa."
+  GroupList:
+  - {fileID: 11400000, guid: 5534ea7ea04e86746903c939dd11a701, type: 2}
+  - {fileID: 11400000, guid: fa45abf4a1eac5a4ca57095853e09599, type: 2}
+  - {fileID: 11400000, guid: 9a943dad476c3774e8267d413da427a3, type: 2}
+  - {fileID: 11400000, guid: 23b390d9608a26d41a57dcc83c7c8d25, type: 2}

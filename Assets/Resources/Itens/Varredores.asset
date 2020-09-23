@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3a3bc37f48e00246bb62a582fd69d6b, type: 3}
+  m_Name: Varredores
+  m_EditorClassIdentifier: 
+  nameItem: Varredores
+  itemIcon: {fileID: 21300004, guid: a2caa62c22211e144aad21b20d39c765, type: 3}
+  price: 2500
+  description: Diminui o tempo da etapa de "Colheita" em 30% e diminui o custo de
+    minigames relacionados a limpeza do solo em 30% durante esta etapa
+  Id: 5
+  buyed: 0
+  valueToChange: 30
+  effectItem: 1
+  stageCondition:
+  - {fileID: 11400000, guid: 560ac56dfd626f84d8d999904692996e, type: 2}
+  eventCondition: []
+  itemSO:
+  - {fileID: 11400000, guid: 2cc2299b85253124a9407eaee23a6804, type: 2}
+  stages: 1
+  auxEffect: 1
+  minigameToChange: 0

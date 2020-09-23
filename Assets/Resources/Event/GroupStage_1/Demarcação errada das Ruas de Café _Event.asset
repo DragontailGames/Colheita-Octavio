@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27b308ab0ca4a9549a7b89ceba3f9406, type: 3}
+  m_Name: "Demarca\xE7\xE3o errada das Ruas de Caf\xE9 _Event"
+  m_EditorClassIdentifier: 
+  eventName: "Demarca\xE7\xE3o errada das Ruas de Caf\xE9 "
+  description: "As ruas de caf\xE9, espa\xE7os entre as linhas de produ\xE7\xE3o do
+    caf\xE9, foram planejadas de forma equivocada, e assim a colheita n\xE3o poder\xE1
+    ser mecanizada, causando dificuldades no desenvolvimento da planta\xE7\xE3o. Refa\xE7a
+    a demarca\xE7\xE3o das ruas.  Seu indicador \"Limpeza do Solo\" foi reduzido 25%
+    do total."
+  effectEvent: 1
+  dropDirectStatus: 0
+  dropStatusModifier: 0
+  modifier: 25
+  moneyChange: 0
+  timeDuration: 0
+  hasCondition: {fileID: 0}
+  changeMinigame: 3
+  minigameCost: 0
+  timeReduceToEndNextSage: 0
+  _quiz: {fileID: 11400000, guid: 3eeb67a12380d5c4485f8c68f4d7d05b, type: 2}

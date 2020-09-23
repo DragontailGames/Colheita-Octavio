@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27b308ab0ca4a9549a7b89ceba3f9406, type: 3}
+  m_Name: Temperatura excessiva no torrador _Event
+  m_EditorClassIdentifier: 
+  eventName: 'Temperatura excessiva no torrador '
+  description: "Foi encontrado um problema no medidor de temperatura no torrador,
+    a torra \xE9 muito sens\xEDvel e n\xE3o deve continuar sem a manuten\xE7\xE3o
+    desse equipamento. Fa\xE7a a manuten\xE7\xE3o do equipamento para controlar o
+    n\xEDvel de torra adequado para o seu caf\xE9. Durante 1 hora voc\xEA perder\xE1
+    o indicador \"Irriga\xE7\xE3o\" 20% mais r\xE1pido."
+  effectEvent: 0
+  dropDirectStatus: 3
+  dropStatusModifier: 2
+  modifier: 20
+  moneyChange: 0
+  timeDuration: 60
+  hasCondition: {fileID: 0}
+  changeMinigame: 3
+  minigameCost: 0
+  timeReduceToEndNextSage: 0
+  _quiz: {fileID: 11400000, guid: 31cc35c1cace31548b05ef14e4bb71dd, type: 2}

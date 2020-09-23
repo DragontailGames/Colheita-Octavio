@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27b308ab0ca4a9549a7b89ceba3f9406, type: 3}
+  m_Name: Solo desnutrido (pobre)_Event
+  m_EditorClassIdentifier: 
+  eventName: Solo desnutrido (pobre)
+  description: "Medi\xE7\xF5es indicam que o seu solo est\xE1 pobre em nutrientes.
+    Recomenda-se a inser\xE7\xE3o de magn\xE9sio at\xE9 1,5 mg/dm\xB3 para que o cafezal
+    ap\xF3s plantado possa se desenvolver e gerar frutos saud\xE1veis. Durante 1 hora
+    voc\xEA perder\xE1 o indicador \"Nutrientes\" 20% mais r\xE1pido."
+  effectEvent: 0
+  dropDirectStatus: 3
+  dropStatusModifier: 1
+  modifier: 20
+  moneyChange: 0
+  timeDuration: 60
+  hasCondition: {fileID: 0}
+  changeMinigame: 3
+  minigameCost: 0
+  timeReduceToEndNextSage: 0
+  _quiz: {fileID: 11400000, guid: a4d5a4c6aca353a4db1d18708c73b76d, type: 2}

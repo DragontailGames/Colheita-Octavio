@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3a3bc37f48e00246bb62a582fd69d6b, type: 3}
+  m_Name: Adubadeira
+  m_EditorClassIdentifier: 
+  nameItem: Adubadeira
+  itemIcon: {fileID: 21300010, guid: a2caa62c22211e144aad21b20d39c765, type: 3}
+  price: 1500
+  description: "Diminui o custo de cafe\xEDna de minigames relacionados a Nutrientes
+    em 30% "
+  Id: 8
+  buyed: 0
+  valueToChange: 30
+  effectItem: 0
+  stageCondition: []
+  eventCondition: []
+  itemSO: []
+  stages: 0
+  auxEffect: 0
+  minigameToChange: 0

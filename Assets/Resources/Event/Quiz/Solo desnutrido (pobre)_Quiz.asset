@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1442e5ba29736947abb2bd1f7152944, type: 3}
+  m_Name: Solo desnutrido (pobre)_Quiz
+  m_EditorClassIdentifier: 
+  _quizName: Solo desnutrido (pobre)
+  _quizQuest: "Voc\xEA recebeu resultado das an\xE1lises do solo, e foi indicado Magn\xE9sio
+    \xE0 1,25 mg/dm\xB3. Voc\xEA deseja refor\xE7ar a quantidade desse nutriente no
+    solo? "
+  _wrongAswer: "N\xE3o"
+  _rigthAswer: Sim
+  _rigthAswerResult: "Correto! Voc\xEA conseguiu evitar \"Solo desnutrido (pobre)\"!"
+  _wrongAswerResult: "Medi\xE7\xF5es indicam que o seu solo est\xE1 pobre em nutrientes.
+    Recomenda-se a inser\xE7\xE3o de magn\xE9sio at\xE9 1,5 mg/dm\xB3 para que o cafezal
+    ap\xF3s plantado possa se desenvolver e gerar frutos saud\xE1veis. Durante 1 hora
+    voc\xEA perder\xE1 o indicador \"Nutrientes\" 20% mais r\xE1pido."

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1442e5ba29736947abb2bd1f7152944, type: 3}
+  m_Name: "Fermenta\xE7\xE3o Indesejada no terreiro_Quiz"
+  m_EditorClassIdentifier: 
+  _quizName: "Fermenta\xE7\xE3o Indesejada no terreiro"
+  _quizQuest: "Sua colheita foi acima das expectativas! Por\xE9m para ganhar tempo
+    sua equipe decidiu fazer a secagem do caf\xE9 em apenas uma etapa acelerando o
+    beneficiamento. Voc\xEA seguir\xE1 com os planos da sua equipe? "
+  _wrongAswer: Sim
+  _rigthAswer: "N\xE3o"
+  _rigthAswerResult: "Correto! Voc\xEA conseguiu evitar \"Fermenta\xE7\xE3o Indesejada
+    no terreiro\"!"
+  _wrongAswerResult: "Os gr\xE3os de caf\xE9 foram amontoados na presen\xE7a de umidade
+    e acabaram fermentando, alterando negativamente o aroma e sabor da bebida de caf\xE9.
+    Durante 1 horas voc\xEA perder\xE1 o indicador \"Limpeza do Solo\" 20% mais r\xE1pido."

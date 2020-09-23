@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1442e5ba29736947abb2bd1f7152944, type: 3}
+  m_Name: "Eros\xE3o do Solo_Quiz"
+  m_EditorClassIdentifier: 
+  _quizName: "Eros\xE3o do Solo"
+  _quizQuest: "Sua equipe precisa realizar uma rotina de capinas intensas para limpar
+    o terreno e evitar pragas, o planejamento indicou essa capina no per\xEDodo mais
+    chuvoso do ano. Voc\xEA vai manter esse planejamento?"
+  _wrongAswer: Sim
+  _rigthAswer: "N\xE3o"
+  _rigthAswerResult: "Correto! Voc\xEA conseguiu evitar \"Eros\xE3o do Solo\"!"
+  _wrongAswerResult: "Foi identificado um alto volume de eros\xE3o do solo em seu
+    cafeeiro, ele provoca desgaste e decad\xEAncia do cafezal. Para reduzir o arrastamento
+    de terras pelas \xE1guas da chuva \xE9 importante fazer a redu\xE7\xE3o das capinas
+    durante o per\xEDodo chuvoso. Durante 1 hora voc\xEA perder\xE1 os indicadores
+    \"Nutrientes\" e \"Irriga\xE7\xE3o\" 20% mais r\xE1pido."

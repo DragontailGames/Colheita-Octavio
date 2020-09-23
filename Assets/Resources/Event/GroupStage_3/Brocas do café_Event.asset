@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27b308ab0ca4a9549a7b89ceba3f9406, type: 3}
+  m_Name: "Brocas do caf\xE9_Event"
+  m_EditorClassIdentifier: 
+  eventName: "Brocas do caf\xE9"
+  description: "Brocas \xE9 um tipo de praga encontrada em todas as regi\xF5es produtoras
+    de caf\xE9 do mundo. Essa praga \xE9 considerada importante porque ataca os frutos
+    em qualquer est\xE1gio de matura\xE7\xE3o, inclusive gr\xE3o j\xE1 seco. Seu indicador
+    \"Nutrientes\" foi reduzido 25% do total."
+  effectEvent: 1
+  dropDirectStatus: 1
+  dropStatusModifier: 1
+  modifier: 25
+  moneyChange: 0
+  timeDuration: 0
+  hasCondition: {fileID: 0}
+  changeMinigame: 3
+  minigameCost: 0
+  timeReduceToEndNextSage: 0
+  _quiz: {fileID: 11400000, guid: 9e9f8c43f232d8f4da45ff9b09b48a2c, type: 2}

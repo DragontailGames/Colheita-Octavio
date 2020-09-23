@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27b308ab0ca4a9549a7b89ceba3f9406, type: 3}
+  m_Name: PH do Solo desregulado _Event
+  m_EditorClassIdentifier: 
+  eventName: 'PH do Solo desregulado '
+  description: "Ocorreram problemas na aplica\xE7\xE3o dos corretivos de ph do solo
+    no per\xEDodo de pr\xE9-plantio. Fa\xE7a a aplica\xE7\xE3o novamente para que
+    ele n\xE3o altere o desenvolvimento do seu cafezal. Seu indicador \"Nutrientes\"
+    foi reduzido 25% do total."
+  effectEvent: 1
+  dropDirectStatus: 1
+  dropStatusModifier: 1
+  modifier: 25
+  moneyChange: 0
+  timeDuration: 0
+  hasCondition: {fileID: 0}
+  changeMinigame: 3
+  minigameCost: 0
+  timeReduceToEndNextSage: 0
+  _quiz: {fileID: 11400000, guid: 7179453b96249064ebed52aa16213abc, type: 2}

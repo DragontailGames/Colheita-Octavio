@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1442e5ba29736947abb2bd1f7152944, type: 3}
+  m_Name: "Brocas do caf\xE9_Quiz"
+  m_EditorClassIdentifier: 
+  _quizName: "Brocas do caf\xE9"
+  _quizQuest: "Os gr\xE3os j\xE1 est\xE3o secos, ainda assim lhe foi recomendado sempre
+    se manter vigilante a incid\xEAncia de pragas, agora fica a seu crit\xE9rio escolher
+    analisar os gr\xE3os por pragas ou n\xE3o. O que deseja fazer?"
+  _wrongAswer: "N\xE3o fazer nada"
+  _rigthAswer: "Analisar os gr\xE3os"
+  _rigthAswerResult: "Correto! Voc\xEA conseguiu evitar \"Brocas do caf\xE9\"!"
+  _wrongAswerResult: "Brocas \xE9 um tipo de praga encontrada em todas as regi\xF5es
+    produtoras de caf\xE9 do mundo. Essa praga \xE9 considerada importante porque
+    ataca os frutos em qualquer est\xE1gio de matura\xE7\xE3o, inclusive gr\xE3o j\xE1
+    seco. Seu indicador \"Nutrientes\" foi reduzido 25% do total."

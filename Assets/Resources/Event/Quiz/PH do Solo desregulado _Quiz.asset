@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1442e5ba29736947abb2bd1f7152944, type: 3}
+  m_Name: PH do Solo desregulado _Quiz
+  m_EditorClassIdentifier: 
+  _quizName: 'PH do Solo desregulado '
+  _quizQuest: Sua equipe precisa aplicar corretivos ph antes do plantio?
+  _wrongAswer: "N\xE3o"
+  _rigthAswer: Sim
+  _rigthAswerResult: "Correto! Voc\xEA conseguiu evitar \"PH do Solo desregulado\"!"
+  _wrongAswerResult: "Ocorreram problemas na aplica\xE7\xE3o dos corretivos de ph
+    do solo no per\xEDodo de pr\xE9-plantio. Fa\xE7a a aplica\xE7\xE3o novamente para
+    que ele n\xE3o altere o desenvolvimento do seu cafezal. Seu indicador \"Nutrientes\"
+    foi reduzido 25% do total."

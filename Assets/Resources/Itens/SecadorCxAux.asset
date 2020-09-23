@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3a3bc37f48e00246bb62a582fd69d6b, type: 3}
+  m_Name: SecadorCxAux
+  m_EditorClassIdentifier: 
+  nameItem: 
+  itemIcon: {fileID: 0}
+  price: 0
+  description: "Diminui o custo de minigames relacionados a irriga\xE7\xE3o em 15%
+    e diminui a dura\xE7\xE3o da etapa \"Secando os Gr\xE3os\" em 15%"
+  Id: 0
+  buyed: 0
+  valueToChange: 15
+  effectItem: 1
+  stageCondition:
+  - {fileID: 11400000, guid: fc4307838177e314db76660223cd8c44, type: 2}
+  eventCondition: []
+  itemSO: []
+  stages: 1
+  auxEffect: 0
+  minigameToChange: 0

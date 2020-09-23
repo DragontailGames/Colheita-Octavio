@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1442e5ba29736947abb2bd1f7152944, type: 3}
+  m_Name: Temperatura excessiva no torrador _Quiz
+  m_EditorClassIdentifier: 
+  _quizName: 'Temperatura excessiva no torrador '
+  _quizQuest: "Em uma rodada de manuten\xE7\xE3o dos equipamentos da fase de beneficiamento
+    foi encontrado um problema no medidor de temperatura do torrador. A reposi\xE7\xE3o
+    da pe\xE7a vai demorar 25 dias e atrasar a produ\xE7\xE3o, para resolver o problema
+    o especialista disse que consegue controlar a torra sem dificuldades manualmente.
+    Vamos continuar com a torra do caf\xE9?"
+  _wrongAswer: Sim
+  _rigthAswer: "N\xE3o"
+  _rigthAswerResult: "Correto! Voc\xEA conseguiu evitar \"Temperatura excessiva no
+    torrador\"!"
+  _wrongAswerResult: "Foi encontrado um problema no medidor de temperatura no torrador,
+    a torra \xE9 muito sens\xEDvel e n\xE3o deve continuar sem a manuten\xE7\xE3o
+    desse equipamento. Fa\xE7a a manuten\xE7\xE3o do equipamento para controlar o
+    n\xEDvel de torra adequado para o seu caf\xE9. Durante 1 hora voc\xEA perder\xE1
+    o indicador \"Irriga\xE7\xE3o\" 20% mais r\xE1pido."

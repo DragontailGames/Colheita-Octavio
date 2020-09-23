@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3a3bc37f48e00246bb62a582fd69d6b, type: 3}
+  m_Name: Lavador
+  m_EditorClassIdentifier: 
+  nameItem: Lavador
+  itemIcon: {fileID: 21300000, guid: 6703018c0ac34cc49ad2b754dda7fd5e, type: 3}
+  price: 1500
+  description: "Diminui o custo de minigames de \"Irriga\xE7\xE3o\" em 30% durante
+    a etapa de \"Colheita\""
+  Id: 3
+  buyed: 0
+  valueToChange: 30
+  effectItem: 0
+  stageCondition:
+  - {fileID: 11400000, guid: 560ac56dfd626f84d8d999904692996e, type: 2}
+  eventCondition: []
+  itemSO: []
+  stages: 1
+  auxEffect: 0
+  minigameToChange: 2

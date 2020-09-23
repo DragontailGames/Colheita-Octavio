@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1442e5ba29736947abb2bd1f7152944, type: 3}
+  m_Name: "Demarca\xE7\xE3o errada das Ruas de Caf\xE9 _Quiz"
+  m_EditorClassIdentifier: 
+  _quizName: "Demarca\xE7\xE3o errada das Ruas de Caf\xE9 "
+  _quizQuest: "Foi identificado que a demarca\xE7\xE3o das ruas de caf\xE9 impossibilita
+    o uso de equipamentos de colheita mecanizada, voc\xEA deseja refazer a demarca\xE7\xE3o?
+    Isso gerar\xE1 custos para sua fazenda."
+  _wrongAswer: "N\xE3o"
+  _rigthAswer: Sim
+  _rigthAswerResult: "Correto! Voc\xEA conseguiu evitar \"Demarca\xE7\xE3o errada
+    das Ruas de Caf\xE9 \"!"
+  _wrongAswerResult: "As ruas de caf\xE9, espa\xE7os entre as linhas de produ\xE7\xE3o
+    do caf\xE9, foram planejadas de forma equivocada, e assim a colheita n\xE3o poder\xE1
+    ser mecanizada, causando dificuldades no desenvolvimento da planta\xE7\xE3o. Refa\xE7a
+    a demarca\xE7\xE3o das ruas.  Seu indicador \"Limpeza do Solo\" foi reduzido 25%
+    do total."

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a0f0629a969e5f4880d3b43e8db472c, type: 3}
+  m_Name: Harvest Toast
+  m_EditorClassIdentifier: 
+  stageName: Torra da Safra
+  stageDuration: 2
+  stageOrder: 6
+  stageDescription: "Nesta etapa o gr\xE3o vai adquirir acidez, corpo e aroma. Cada
+    tipo de torra vai ser determinada pelo tempo de exposi\xE7\xE3o do gr\xE3o ao
+    calor e a temperatura empregada. "
+  iEnd: 0
+  myFillAmount: 0

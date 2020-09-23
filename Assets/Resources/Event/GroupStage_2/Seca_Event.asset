@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27b308ab0ca4a9549a7b89ceba3f9406, type: 3}
+  m_Name: Seca_Event
+  m_EditorClassIdentifier: 
+  eventName: Seca
+  description: "O n\xEDvel de \xE1gua do seu cafezal est\xE1 inferior ao n\xEDvel
+    necess\xE1rio para o desenvolvimento saud\xE1vel dos gr\xE3os de caf\xE9. Um cafeeiro
+    requer no total entre 1.200 mm e 1.800 mm anuais de chuvas, distribu\xEDdos regularmente
+    nos per\xEDodos de desenvolvimento vegetativo e de frutifica\xE7\xE3o. Durante
+    1 hora voc\xEA perder\xE1 seu indicador de Irriga\xE7\xE3o 20% mais r\xE1pido."
+  effectEvent: 0
+  dropDirectStatus: 3
+  dropStatusModifier: 2
+  modifier: 20
+  moneyChange: 0
+  timeDuration: 60
+  hasCondition: {fileID: 0}
+  changeMinigame: 3
+  minigameCost: 0
+  timeReduceToEndNextSage: 0
+  _quiz: {fileID: 11400000, guid: dd0b5c10c00b4aa44a5609ba352e4ae2, type: 2}

@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1958181192159314}
+  m_IsPrefabAsset: 1
+--- !u!1 &1958181192159314
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4973319769435874}
+  - component: {fileID: 114599900811649054}
+  m_Layer: 0
+  m_Name: MinigameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4973319769435874
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1958181192159314}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 168.62964, y: 286.0607, z: -83.5998}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114599900811649054
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1958181192159314}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: feab6822033c1c24cbfe992eff9448d6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  saleSceneName: MinigameSale
+  noCaffeine: {fileID: 0}
+  minigameTypes: []
+  _stageManager: {fileID: 0}
+  waterMinigame:
+  - {fileID: 11400000, guid: 0c64e80b76cd61243842000ac756bf4b, type: 2}
+  - {fileID: 11400000, guid: fe61aaec471400d40ba648ced79c9978, type: 2}
+  - {fileID: 11400000, guid: 2c13da7fd772e5a44873c30fc0aa62c1, type: 2}
+  nutrientsMinigame:
+  - {fileID: 11400000, guid: bc3cad4fd91452e47bc37d0e60e6f83e, type: 2}
+  - {fileID: 11400000, guid: 8b7a2a8ef5d05e94ba80403f270ca608, type: 2}
+  - {fileID: 11400000, guid: b43e56755b9df454183ec4e95be43497, type: 2}
+  cleaningMinigame:
+  - {fileID: 11400000, guid: 5b910df38d0a1dd41a67813b0127221f, type: 2}
+  - {fileID: 11400000, guid: be00a7f461de5354cacfbc4a0c61f1da, type: 2}
+  - {fileID: 11400000, guid: a2866d735e4c58b499314a9099b3acf5, type: 2}

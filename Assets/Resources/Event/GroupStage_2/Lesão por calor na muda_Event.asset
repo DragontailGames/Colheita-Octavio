@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27b308ab0ca4a9549a7b89ceba3f9406, type: 3}
+  m_Name: "Les\xE3o por calor na muda_Event"
+  m_EditorClassIdentifier: 
+  eventName: "Les\xE3o por calor na muda"
+  description: "Sua muda foi plantada com o coleto abaixo do n\xEDvel do solo, e como
+    o clima est\xE1 quente e o solo do seu terreno \xE9 arenoso, o caule est\xE1 sujeito
+    a uma temperatura \xE0 qual n\xE3o \xE9 adaptado, sofrendo les\xF5es e em situa\xE7\xF5es
+    mais extremas, morte da casca nesse ponto com consequente morte da muda. Replante
+    a muda para evitar sua morte. Seus indicadores de \"Irriga\xE7\xE3o\" \"Limpeza
+    do Solo\" e \"Nutrientes\" foram reduzidos em 25% do total."
+  effectEvent: 1
+  dropDirectStatus: 4
+  dropStatusModifier: 4
+  modifier: 25
+  moneyChange: 0
+  timeDuration: 0
+  hasCondition: {fileID: 0}
+  changeMinigame: 3
+  minigameCost: 0
+  timeReduceToEndNextSage: 0
+  _quiz: {fileID: 11400000, guid: e4c2b63e2bb318c4cb47f9f0665d84a6, type: 2}

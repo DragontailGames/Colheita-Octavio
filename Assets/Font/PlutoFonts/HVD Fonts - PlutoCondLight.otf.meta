@@ -1,0 +1,36 @@
+fileFormatVersion: 2
+guid: eee9dd081debd7c4782a4e41429fec10
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Pluto
+  fontNames:
+  - Pluto
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1e4faf9055b034b47a42b5807e5b1a54, type: 3}
+  - {fileID: 12800000, guid: c16f07e00bc330144882187f731801fa, type: 3}
+  - {fileID: 12800000, guid: ccbb1b22cfb10264ca08fdef0e111048, type: 3}
+  - {fileID: 12800000, guid: b985d18311e6b734cbe071726fec9d49, type: 3}
+  - {fileID: 12800000, guid: 0451cc8496d0e9d4abd33909a892c11a, type: 3}
+  - {fileID: 12800000, guid: 7bb40136c4d49104ca73707452f3d24a, type: 3}
+  - {fileID: 12800000, guid: 2ebc234715e36ce45a3e326d0ed99319, type: 3}
+  - {fileID: 12800000, guid: 0e544518afbf1484db90eebdd35d291e, type: 3}
+  - {fileID: 12800000, guid: 5b43116850b35c342b4cc5aff4b149d1, type: 3}
+  - {fileID: 12800000, guid: dc874e39c4f383c40b406085fbae6b13, type: 3}
+  - {fileID: 12800000, guid: 4b949659f1a339e49a5354b73d6b1d5e, type: 3}
+  - {fileID: 12800000, guid: 3bf7092a5614d1d45bed30e00f3d3941, type: 3}
+  - {fileID: 12800000, guid: 0ce0af6cc9b653c4c936df371e5de029, type: 3}
+  - {fileID: 12800000, guid: bbe534ac54b75ba4ea50367fcc91ddec, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57684b31422b9534eb9f1ae0881dfb5c, type: 3}
+  m_Name: AAAA
+  m_EditorClassIdentifier: 
+  thumb: {fileID: 0}
+  nameThing: AAAA
+  description: "Teste meu Nome \xE9 Pedro azul"
+  categorie: 0
+  videoToPlay: {fileID: 32900000, guid: a4db293c038597849bba7a5a58a4b98b, type: 3}
+  minCharKW: 3
+  keySearch:
+  - Teste
+  - Nome
+  - Pedro
+  - azul

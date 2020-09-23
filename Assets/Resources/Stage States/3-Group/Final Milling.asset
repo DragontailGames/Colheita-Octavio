@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a0f0629a969e5f4880d3b43e8db472c, type: 3}
+  m_Name: Final Milling
+  m_EditorClassIdentifier: 
+  stageName: Moagem Final
+  stageDuration: 4
+  stageOrder: 7
+  stageDescription: "Usar a moagem adequada para o tipo de preparo escolhido \xE9
+    muito importante para obter o melhor sabor do caf\xE9."
+  iEnd: 0
+  myFillAmount: 0

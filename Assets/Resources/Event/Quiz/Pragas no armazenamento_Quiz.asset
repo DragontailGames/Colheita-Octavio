@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1442e5ba29736947abb2bd1f7152944, type: 3}
+  m_Name: Pragas no armazenamento_Quiz
+  m_EditorClassIdentifier: 
+  _quizName: Pragas no armazenamento
+  _quizQuest: "Foi informado que s\xE3o necess\xE1rias precau\xE7\xF5es no armazenamento,
+    qual voc\xEA realizar\xE1? "
+  _wrongAswer: "An\xE1lise da Qualidade"
+  _rigthAswer: "An\xE1lise de Pragas"
+  _rigthAswerResult: "Correto! Voc\xEA conseguiu evitar \"Pragas no armazenamento
+    \"!"
+  _wrongAswerResult: "Foram encontradas inseto-pragas tais como a broca do caf\xE9,
+    caruncho das tulhas, tra\xE7a do caf\xE9 e tra\xE7a do amendoim em seu armaz\xE9m.
+    Elimine os invasores para mitigar os danos a qualidade do seu caf\xE9. Durante
+    1 hora voc\xEA perder\xE1 os indicadores \"Limpeza do Solo\" e \"Nutrientes\"
+    20% mais r\xE1pido."

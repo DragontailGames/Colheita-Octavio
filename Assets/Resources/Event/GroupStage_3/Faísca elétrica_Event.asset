@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27b308ab0ca4a9549a7b89ceba3f9406, type: 3}
+  m_Name: "Fa\xEDsca el\xE9trica_Event"
+  m_EditorClassIdentifier: 
+  eventName: "Fa\xEDsca el\xE9trica"
+  description: "Ap\xF3s a tempestade foi detectado danos causados por ocorr\xEAncia
+    de fa\xEDsca el\xE9trica em seu cafezal, com o aparecimento repentino de ramos
+    e folhas queimados. Aguarde a confirma\xE7\xE3o da extens\xE3o dos danos, seca
+    total da planta ou apenas de sua parte superior, para proceder \xE0 poda, caso
+    seja necess\xE1rio. Seu indicador \"Irriga\xE7\xE3o\" foi reduzido 25% do total."
+  effectEvent: 1
+  dropDirectStatus: 2
+  dropStatusModifier: 2
+  modifier: 25
+  moneyChange: 0
+  timeDuration: 0
+  hasCondition: {fileID: 0}
+  changeMinigame: 3
+  minigameCost: 0
+  timeReduceToEndNextSage: 0
+  _quiz: {fileID: 11400000, guid: 2eb4debcbd8d7aa4ab5c9274e174bd71, type: 2}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1442e5ba29736947abb2bd1f7152944, type: 3}
+  m_Name: Chuva de Granizo_Quiz
+  m_EditorClassIdentifier: 
+  _quizName: Chuva de Granizo
+  _quizQuest: "Seu cafezal foi atingido por uma chuva de granizo causando pequenas
+    les\xF5es, como primeira a\xE7\xE3o para proteger sua planta\xE7\xE3o sua equipe
+    vai aplicar? "
+  _wrongAswer: Poda
+  _rigthAswer: Fungicidas
+  _rigthAswerResult: "Correto! Voc\xEA conseguiu evitar \"Chuvas de Granizo\"!"
+  _wrongAswerResult: "Seu cafeeiro foi afetado por uma chuva de granizo, causando
+    a machucadura de seu cafezal. Indica-se a aplica\xE7\xE3o de fungicida \xE0 base
+    de cobre, para proteger contra Pseudomonas que podem aproveitar as machucaduras
+    para atacar mais a planta. Durante 1 hora voc\xEA perder\xE1 os indicadores \"Nutrientes\"
+    e \"Limpeza do Solo\" 20% mais r\xE1pido."

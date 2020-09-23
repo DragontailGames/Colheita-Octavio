@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a0f0629a969e5f4880d3b43e8db472c, type: 3}
+  m_Name: Preparing Ground
+  m_EditorClassIdentifier: 
+  stageName: Preparando o Solo
+  stageDuration: 3
+  stageOrder: 1
+  stageDescription: "A prepara\xE7\xE3o do solo \xE9 muito importante pois \xE9 nela
+    que adicionamos os fertilizantes e adubos, responsaveis pelo crescimento do cafe,
+    e tem uma dura\xE7\xE3o m\xE9dia de 35 horas."
+  iEnd: 0
+  myFillAmount: 0.00265782

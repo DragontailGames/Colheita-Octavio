@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1442e5ba29736947abb2bd1f7152944, type: 3}
+  m_Name: Seca_Quiz
+  m_EditorClassIdentifier: 
+  _quizName: Seca
+  _quizQuest: "Sua planta\xE7\xE3o recebeu um total de chuvas no ano de 1.089 mm,
+    voc\xEA deseja realizar a irriga\xE7\xE3o mec\xE2nica?"
+  _wrongAswer: "N\xE3o"
+  _rigthAswer: Sim
+  _rigthAswerResult: "Correto! Voc\xEA conseguiu evitar \"Seca\"!"
+  _wrongAswerResult: "O n\xEDvel de \xE1gua do seu cafezal est\xE1 inferior ao n\xEDvel
+    necess\xE1rio para o desenvolvimento saud\xE1vel dos gr\xE3os de caf\xE9. Um cafeeiro
+    requer no total entre 1.200 mm e 1.800 mm anuais de chuvas, distribu\xEDdos regularmente
+    nos per\xEDodos de desenvolvimento vegetativo e de frutifica\xE7\xE3o. Durante
+    1 hora voc\xEA perder\xE1 seu indicador de Irriga\xE7\xE3o 20% mais r\xE1pido."

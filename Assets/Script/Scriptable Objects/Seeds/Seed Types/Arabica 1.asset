@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1228e9f0e04654b479c7129629f724b9, type: 3}
+  m_Name: Arabica 1
+  m_EditorClassIdentifier: 
+  seedName: Arabica
+  seedCost: 50
+  GroupList:
+  - {fileID: 11400000, guid: ecfb3c29de2e08c4ca1e97f46c4dd5d2, type: 2}
+  - {fileID: 11400000, guid: 717db0656cfd8094e825c7ed73c859fe, type: 2}
+  - {fileID: 11400000, guid: bc15bf102285f6048b482f7ed603ad51, type: 2}
+  - {fileID: 11400000, guid: 234a7f2079c8b2a4bb52e6191f3f9a4f, type: 2}

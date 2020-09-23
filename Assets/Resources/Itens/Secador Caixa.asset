@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3a3bc37f48e00246bb62a582fd69d6b, type: 3}
+  m_Name: Secador Caixa
+  m_EditorClassIdentifier: 
+  nameItem: Secador Caixa
+  itemIcon: {fileID: 21300008, guid: a2caa62c22211e144aad21b20d39c765, type: 3}
+  price: 2500
+  description: "Diminui o custo de minigames relacionados a irriga\xE7\xE3o em 15%
+    e diminui a dura\xE7\xE3o da etapa \"Secando os Gr\xE3os\" em 15%"
+  Id: 7
+  buyed: 1
+  valueToChange: 15
+  effectItem: 0
+  stageCondition: []
+  eventCondition: []
+  itemSO:
+  - {fileID: 11400000, guid: 0a73e05f5a362414d83f1a43d5fec32c, type: 2}
+  stages: 0
+  auxEffect: 1
+  minigameToChange: 2

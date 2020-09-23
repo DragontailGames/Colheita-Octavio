@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: 46da1d51a220d4c4e9fea6484d9ef63a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Chao 1
+    100002: grama
+    100004: Grass_1
+    100006: Grass_2
+    100008: mato
+    100010: mato001
+    100012: mato002
+    100014: mato003
+    100016: Mud_Patch_H
+    100018: pedras
+    100020: //RootNode
+    100022: Tree_3_Low.002
+    100024: Tree_3_Low.004
+    100026: Tree_3_Low.006
+    100028: wwwww
+    400000: Chao 1
+    400002: grama
+    400004: Grass_1
+    400006: Grass_2
+    400008: mato
+    400010: mato001
+    400012: mato002
+    400014: mato003
+    400016: Mud_Patch_H
+    400018: pedras
+    400020: //RootNode
+    400022: Tree_3_Low.002
+    400024: Tree_3_Low.004
+    400026: Tree_3_Low.006
+    400028: wwwww
+    2100000: 14 - Default
+    2100002: Green
+    2100004: Mud
+    2100006: Green.003
+    2100008: Green.001
+    2100010: 19 - Default
+    2100012: 13 - Default
+    2100014: 21 - Default
+    2100016: 20 - Default
+    2300000: Chao 1
+    2300002: grama
+    2300004: Grass_1
+    2300006: Grass_2
+    2300008: mato
+    2300010: mato001
+    2300012: mato002
+    2300014: mato003
+    2300016: Mud_Patch_H
+    2300018: pedras
+    2300020: Tree_3_Low.002
+    2300022: Tree_3_Low.004
+    2300024: Tree_3_Low.006
+    3300000: Chao 1
+    3300002: grama
+    3300004: Grass_1
+    3300006: Grass_2
+    3300008: mato
+    3300010: mato001
+    3300012: mato002
+    3300014: mato003
+    3300016: Mud_Patch_H
+    3300018: pedras
+    3300020: Tree_3_Low.002
+    3300022: Tree_3_Low.004
+    3300024: Tree_3_Low.006
+    4300000: Chao 1
+    4300002: mato
+    4300004: mato001
+    4300006: mato002
+    4300008: mato003
+    4300010: Mud_Patch_H
+    4300012: Grass_1
+    4300014: Grass_2
+    4300016: Tree_3_Low.002
+    4300018: pedras
+    4300020: Tree_3_Low.006
+    4300022: Tree_3_Low.004
+    4300024: grama
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

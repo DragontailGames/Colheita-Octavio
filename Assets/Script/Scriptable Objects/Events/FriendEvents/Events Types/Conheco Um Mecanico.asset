@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27b308ab0ca4a9549a7b89ceba3f9406, type: 3}
+  m_Name: Conheco Um Mecanico
+  m_EditorClassIdentifier: 
+  eventName: Conheco Um Mecanico
+  description: "Durante 30 minutos todos os Minigames ter\xE3o custo reduzido em 25%;"
+  effectEvent: 4
+  dropDirectStatus: 3
+  dropStatusModifier: 3
+  modifier: 0
+  moneyChange: 0
+  timeDuration: 30
+  hasCondition: {fileID: 0}
+  changeMinigame: 4
+  minigameCost: 25
+  timeReduceToEndNextSage: 0

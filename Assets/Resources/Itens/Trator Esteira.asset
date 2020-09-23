@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3a3bc37f48e00246bb62a582fd69d6b, type: 3}
+  m_Name: Trator Esteira
+  m_EditorClassIdentifier: 
+  nameItem: Trator Esteira
+  itemIcon: {fileID: 21300016, guid: a2caa62c22211e144aad21b20d39c765, type: 3}
+  price: 3500
+  description: Diminui o custo dos Minigames de Limpeza do Solo em 30% durante as
+    etapas "Limpando o Solo" e "Preparando o Solo".
+  Id: 11
+  buyed: 0
+  valueToChange: 30
+  effectItem: 0
+  stageCondition:
+  - {fileID: 11400000, guid: 072521703ab7a624eba0b529d8d75a2f, type: 2}
+  - {fileID: 11400000, guid: 4621f50b6cfbc61458373842a5a5fa45, type: 2}
+  eventCondition: []
+  itemSO: []
+  stages: 2
+  auxEffect: 0
+  minigameToChange: 0

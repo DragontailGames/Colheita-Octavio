@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5cac171bbd6c9146a2ff191f1eda3b5, type: 3}
+  m_Name: Stage Group 03
+  m_EditorClassIdentifier: 
+  stages:
+  - {fileID: 11400000, guid: fc4307838177e314db76660223cd8c44, type: 2}
+  - {fileID: 11400000, guid: cb207211c170a1a439f88120051e971b, type: 2}
+  - {fileID: 11400000, guid: 98c4eaf0164e494428f556236b1790f9, type: 2}
+  events:
+  - {fileID: 11400000, guid: 582ee0581323b9b46889614564a0914c, type: 2}
+  - {fileID: 11400000, guid: 8012980ea40b3804b812584a977b91c7, type: 2}
+  - {fileID: 11400000, guid: f44300a7e1834f149876b7b0d7f2f3c8, type: 2}
+  - {fileID: 11400000, guid: fd59c652fe06380469f531eb51ed041a, type: 2}
+  - {fileID: 11400000, guid: bdf44c304b1752a4c916c3e20cc50659, type: 2}
+  - {fileID: 11400000, guid: 7249a6d1475ed17439d0d1fa38b40818, type: 2}
+  - {fileID: 11400000, guid: 1db6451add3f65d4598e64c4377e26cb, type: 2}

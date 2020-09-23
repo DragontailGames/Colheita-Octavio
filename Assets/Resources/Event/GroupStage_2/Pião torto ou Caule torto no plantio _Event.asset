@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27b308ab0ca4a9549a7b89ceba3f9406, type: 3}
+  m_Name: "Pi\xE3o torto ou Caule torto no plantio _Event"
+  m_EditorClassIdentifier: 
+  eventName: "Pi\xE3o torto ou Caule torto no plantio "
+  description: "Foi identificado o pi\xE3o torto ou caule torno no plantio de suas
+    mudas! A repicagem delas nos viveiros, sua rega insuficiente, o enchimento inadequado
+    dos saquinhos, o reaproveitamento de sobras de bloquinho do viveiro anterior e
+    n\xE3o fazer o corte do fundo dos saquinhos pode ter ocasionado esse problema.
+    Voc\xEA precisa gastar 50 Moedas no reparo, caso n\xE3o possua acerte as contas
+    da fazenda para conseguir o dinheiro."
+  effectEvent: 2
+  dropDirectStatus: 3
+  dropStatusModifier: 4
+  modifier: 0
+  moneyChange: -50
+  timeDuration: 60
+  hasCondition: {fileID: 0}
+  changeMinigame: 3
+  minigameCost: 0
+  timeReduceToEndNextSage: 0
+  _quiz: {fileID: 11400000, guid: b203732cda892ae4b828f249099039ac, type: 2}

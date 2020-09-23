@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1995176434674186}
+  m_IsPrefabAsset: 1
+--- !u!1 &1995176434674186
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4865346447522510}
+  - component: {fileID: 114359414224582258}
+  m_Layer: 0
+  m_Name: StoreManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4865346447522510
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1995176434674186}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 309.8351, y: 166.45369, z: 3.2234652}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114359414224582258
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1995176434674186}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9f32898f7e8e3a4d868c2c51152a15e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  storeItensToBuy:
+  - {fileID: 11400000, guid: 8d956863387ce16469cbbf24579f8c79, type: 2}
+  - {fileID: 11400000, guid: 000e6e3b01ce0d64087a97fcf868b67b, type: 2}
+  - {fileID: 11400000, guid: a574935de9bedfe439d35af2ae2d312f, type: 2}
+  - {fileID: 11400000, guid: f44cce1b7ec23c64b9dad11ec377f702, type: 2}
+  - {fileID: 11400000, guid: 93c6533124923a144b04a367b0276f9d, type: 2}
+  - {fileID: 11400000, guid: 66f98bf7b9b0a8d438c6ed8ca4587605, type: 2}
+  - {fileID: 11400000, guid: b74fbda9463f986438f266852e025277, type: 2}
+  - {fileID: 11400000, guid: 24002017de26bc84a99de9b3627f23c9, type: 2}
+  - {fileID: 11400000, guid: e06555cbb6cb5f845b611f1670a5c5b1, type: 2}
+  - {fileID: 11400000, guid: cf86b194113b17942b304d153fbd95f4, type: 2}
+  - {fileID: 11400000, guid: 98f11b5a613ae2b4dadf276fb6e31660, type: 2}
+  - {fileID: 11400000, guid: 8813a391303ab874e8957cf66a1a0485, type: 2}
+  - {fileID: 11400000, guid: e06a35a10b96ca44c94992a710e14847, type: 2}
+  context: {fileID: 0}
+  saleItem_prefab: {fileID: 1612649088444546, guid: 1cd81fa8222773e4cbf690eca5ce2f6a,
+    type: 2}
+  textDescription: {fileID: 0}
+  buyItem: {fileID: 0}
+  btBuy: {fileID: 0}
